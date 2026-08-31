@@ -1,0 +1,66 @@
+# =========================
+# Unity generated folders
+# =========================
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Uu]serSettings/
+
+# =========================
+# Build output
+# =========================
+[Bb]uild/
+[Bb]uilds/
+
+# =========================
+# IDE / Visual Studio
+# =========================
+.vs/
+.vscode/
+.idea/
+
+*.csproj
+*.sln
+*.slnx
+*.unityproj
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+.vsconfig
+
+# =========================
+# OS generated files
+# =========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =========================
+# Crash / temporary files
+# =========================
+sysinfo.txt
+crashlytics-build.properties
+*.tmp
+*.temp
+*.bak
+*.swp
+
+# =========================
+# Unity package / cache artifacts
+# =========================
+MemoryCaptures/
+Recordings/
+
+# =========================
+# Optional local environment files
+# =========================
+.env
+.env.*
